@@ -6,13 +6,10 @@
   ☕ Code and coffee
 </h4>
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Rocketseat/semana-omnistack-9.svg">
+  <img alt="GitHub language count" src="https://img.shields.io/badge/languages-1-blue">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Rocketseat/semana-omnistack-9.svg">
+  <img alt="Repository size" src="https://img.shields.io/badge/repo%20size-40%2C1%20KB-blue">
   
-  <a href="https://github.com/Rocketseat/semana-omnistack-9/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Rocketseat/semana-omnistack-9.svg">
-  </a>
 
 
 </p>
@@ -37,4 +34,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Aircnc é um projeto que visa conectar empresas que querem abrir spots e desenvolvedores que procuram um lugar para trocar ideias com devs, conhecer a empresa e trabalhar lá por um período.
+O doe é um projeto que visa atingir um grande publico para conscientização da doação de sangue.
