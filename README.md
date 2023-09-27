@@ -36,4 +36,5 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O doe é um projeto que visa atingir um grande publico para conscientização da doação de sangue.
 
+## 📃 License
 <p align="center"><a href="https://github.com/Cr3ativeLZ/maratonadev/blob/master/LICENSE"><img src="https://img.shields.io/static/v1.svg?style=for-the-badge&label=License&message=MIT&logoColor=d9e0ee&colorA=302d41&colorB=c9cbff"/></a></p>
